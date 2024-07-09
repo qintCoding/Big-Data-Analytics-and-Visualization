@@ -8,6 +8,8 @@ Level 2 question:
 4.房屋所在区域的人口密度对房屋的吸引力有影响吗？
 5.房屋装修水平对房屋的吸引力有影响吗？
 6.房屋的结构（房屋数目）对房屋的吸引力有影响吗？
-Level 3 question:
+Level 2 question plus：
 
+Level 3 question:
+......
 分析方式：分时间段，分行政区。
