@@ -1,0 +1,9 @@
+确定主题：
+Level 1 question：
+Which elements can increase the attractiveness of a property?
+Level 2 question:
+1.房屋的年龄对房屋的吸引力有影响吗？
+2.房屋的周边设施对房屋的吸引力有影响吗？
+3.房屋所在的行政区对房屋的吸引力有影响吗？
+4.房屋所在区域的人口密度对房屋的吸引力有影响吗？
+5.房间物理条件对房屋的吸引力有影响吗？（建造年份、装修和楼层）
