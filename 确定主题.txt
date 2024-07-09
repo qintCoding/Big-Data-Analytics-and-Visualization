@@ -11,8 +11,21 @@ Level 2 question:
 7.房屋的面积对房屋的吸引力有影响吗？
 8.房屋有无电梯情况下楼层对房屋吸引力的影响？
 9.不同行政区对地铁敏感度？
+
+1. Does the age of a house affect its attractiveness?
+2. Do the surrounding amenities (subway, schools, shopping centers, elevators) affect the attractiveness of a house?
+3. Does the administrative district in which the house is located affect its attractiveness?
+4. Does the population density of the area in which the house is located affect its attractiveness?
+5. Does the level of house decoration affect its attractiveness?
+6. Does the structure of the house (number of houses and building materials) affect its attractiveness?
+7. Does the size of the house affect its attractiveness?
+8. How does the floor level of a house affect its attractiveness in the presence or absence of an elevator?
+9. How do different districts vary in their sensitivity to the subway?
+
 Level 2 question plus：
 行政区的定位->建设的时间->相关的配套设施
+The positioning of the district -> the construction time -> the relevant supporting facilities
+
 Level 3 question:
 ......
 分析方式：分时间段，分行政区。
