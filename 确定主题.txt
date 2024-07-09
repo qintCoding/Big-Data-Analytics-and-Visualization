@@ -16,3 +16,4 @@ Level 2 question plus：
 Level 3 question:
 ......
 分析方式：分时间段，分行政区。
+不同时间段的建设区间，不同区划的吸引力；
