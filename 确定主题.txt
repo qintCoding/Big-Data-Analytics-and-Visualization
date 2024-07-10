@@ -28,6 +28,6 @@ Level 2 question plus：
 The positioning of the district -> the construction time -> the relevant supporting facilities
 
 Level 3 question:
-......
+可以先visualization后细化第三类问题...
 分析方式：分时间段，分行政区。
 不同时间段的建设区间，不同区划的吸引力；
