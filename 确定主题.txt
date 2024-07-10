@@ -1,6 +1,6 @@
 确定主题：
 Level 1 question：
-Which elements can increase the attractiveness of a property?
+Which elements can increase the attractiveness of a property? //attractivness的定义和business critical
 Level 2 question:
 1.房屋的年龄对房屋的吸引力有影响吗？
 2.房屋的周边配套设施（地铁、学校、购物中心、电梯）对房屋的吸引力有影响吗？
@@ -11,6 +11,7 @@ Level 2 question:
 7.房屋的面积对房屋的吸引力有影响吗？
 8.房屋有无电梯情况下楼层对房屋吸引力的影响？
 9.不同行政区对地铁敏感度？
+10.分区域的研究显著性的因素
 
 1. Does the age of a house affect its attractiveness?
 2. Do the surrounding amenities (subway, schools, shopping centers, elevators) affect the attractiveness of a house?
