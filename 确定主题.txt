@@ -11,7 +11,7 @@ Level 2 question:
 7.房屋的面积对房屋的吸引力有影响吗？
 8.房屋有无电梯情况下楼层对房屋吸引力的影响？
 9.不同行政区对地铁敏感度？
-10.分区域的研究显著性的因素
+10.分区域的研究显著性的因素(天昱)
 
 1. Does the age of a house affect its attractiveness?
 2. Do the surrounding amenities (subway, schools, shopping centers, elevators) affect the attractiveness of a house?
