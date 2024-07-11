@@ -22,6 +22,7 @@ Level 2 question:
 7. Does the size of the house affect its attractiveness?
 8. How does the floor level of a house affect its attractiveness in the presence or absence of an elevator?
 9. How do different districts vary in their sensitivity to the subway?
+10. Factors of significance in sub-regional studies
 
 Level 2 question plus：
 行政区的定位->建设的时间->相关的配套设施
