@@ -17,4 +17,5 @@ presentation with recommendations for your story.
 6.用数据可视化制作你的演示，并为你的故事制作一个连贯的数据讲故事演示。
 
 <img src="dataCleaning/timetable.png" width="50%" height="50%"/>
+<img src="dataCleaning/timetable2.png" width="50%" height="50%"/>
 <img src="dataCleaning/evaluation.png" width="50%" height="50%"/>
