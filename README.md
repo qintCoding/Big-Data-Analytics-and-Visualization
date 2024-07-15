@@ -16,5 +16,5 @@ presentation with recommendations for your story.
 5.使用表格、MS Excel或Python软件包来生成您的数据可视化。 
 6.用数据可视化制作你的演示，并为你的故事制作一个连贯的数据讲故事演示。
 
-<img src="timetable.png" width="50%" height="50%"/>
-<img src="evaluation.png" width="50%" height="50%"/>
+<img src="dataCleaning/timetable.png" width="50%" height="50%"/>
+<img src="dataCleaning/evaluation.png" width="50%" height="50%"/>
